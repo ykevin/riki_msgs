@@ -10,6 +10,8 @@ add_message_files(
   PID.msg
   Imu.msg
   Battery.msg
+  Temperature.msg
+  DHT22.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)
