@@ -10,7 +10,6 @@ add_message_files(
   PID.msg
   Imu.msg
   Battery.msg
-  Temperature.msg
   DHT22.msg
 )
 
