@@ -11,6 +11,7 @@ add_message_files(
   Imu.msg
   Battery.msg
   DHT22.msg
+  Servo.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)
