@@ -12,6 +12,9 @@ add_message_files(
   Battery.msg
   DHT22.msg
   Servo.msg
+  Infrared.msg
+  Ultrasonic.msg
+
 )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)
