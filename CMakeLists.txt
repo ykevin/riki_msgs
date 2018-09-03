@@ -14,7 +14,8 @@ add_message_files(
   Servo.msg
   Infrared.msg
   Ultrasonic.msg
-
+  Led.msg
+  Buzzer.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)
