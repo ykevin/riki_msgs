@@ -1,1 +1,2 @@
-float32 battery
+float32 driver_board_volt
+float32 gas_pedal_volt
