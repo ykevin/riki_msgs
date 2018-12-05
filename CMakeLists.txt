@@ -16,6 +16,7 @@ add_message_files(
   Ultrasonic.msg
   Led.msg
   Buzzer.msg
+  Arm.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)
