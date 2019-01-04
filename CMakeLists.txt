@@ -13,6 +13,7 @@ add_message_files(
   DHT22.msg
   Servo.msg
   RcMode.msg
+  Ultrasonic.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)
