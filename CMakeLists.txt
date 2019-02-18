@@ -11,7 +11,8 @@ add_message_files(
   Imu.msg
   Battery.msg
   DHT22.msg
-  Servo.msg
+  Servo1.msg
+  Servo2.msg
   Infrared.msg
   Ultrasonic.msg
 )
