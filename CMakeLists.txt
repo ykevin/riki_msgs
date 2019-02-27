@@ -17,6 +17,8 @@ add_message_files(
   Led.msg
   Buzzer.msg
   Arm.msg
+  Sonar.msg
+  RcMode.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)
