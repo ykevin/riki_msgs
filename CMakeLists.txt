@@ -15,6 +15,7 @@ add_message_files(
   Servo2.msg
   Infrared.msg
   Ultrasonic.msg
+  Gled.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)
