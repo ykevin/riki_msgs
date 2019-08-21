@@ -16,6 +16,7 @@ add_message_files(
   Infrared.msg
   Ultrasonic.msg
   Gled.msg
+  Ws2812_msg.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)
