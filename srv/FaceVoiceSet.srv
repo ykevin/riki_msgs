@@ -1,2 +1,4 @@
+int32 voice_id
+---
 bool face_id
-bool reset
+
