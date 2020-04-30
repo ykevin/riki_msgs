@@ -29,6 +29,7 @@ add_service_files(
   FaceVoiceSet.srv
   Pose.srv
   Gripper.srv
+  Trajectory.srv
 )
 
 
