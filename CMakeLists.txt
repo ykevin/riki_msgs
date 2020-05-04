@@ -30,6 +30,7 @@ add_service_files(
   Pose.srv
   Gripper.srv
   Trajectory.srv
+  Shoot.srv
 )
 
 
