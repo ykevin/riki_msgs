@@ -1,2 +1,4 @@
 int16 step
 int16 time
+---
+int16 result

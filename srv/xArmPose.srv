@@ -3,3 +3,5 @@ float32 y
 float32 z
 float32 rtoary
 int16 time
+---
+int16 result

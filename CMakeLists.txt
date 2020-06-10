@@ -27,9 +27,9 @@ add_service_files(
   ServoAngle.srv
   RobotVoiceCtrl.srv
   FaceVoiceSet.srv
-  Pose.srv
-  Gripper.srv
-  Trajectory.srv
+  xArmPose.srv
+  xArmGripper.srv
+  xArmTrajectory.srv
   Shoot.srv
 )
 
