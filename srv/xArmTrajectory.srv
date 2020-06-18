@@ -1,9 +1,0 @@
-int16 id2
-int16 id3
-int16 id4
-int16 id5
-int16 id6
-int16 time
----
-int16 result
-
