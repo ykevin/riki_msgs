@@ -19,6 +19,7 @@ add_message_files(
   Arm.msg
   Sonar.msg
   RcMode.msg
+  telescopic.msg
 )
 
 ## Generate services in the 'srv' folder
