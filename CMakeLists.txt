@@ -19,6 +19,8 @@ add_message_files(
   Arm.msg
   Sonar.msg
   RcMode.msg
+  Bluetooth.msg
+  Blue_connect.msg
 )
 
 ## Generate services in the 'srv' folder
