@@ -21,6 +21,7 @@ add_message_files(
   RcMode.msg
   Bluetooth.msg
   Blue_connect.msg
+  ps2_value.msg
 )
 
 ## Generate services in the 'srv' folder
